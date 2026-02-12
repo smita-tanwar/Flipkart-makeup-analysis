@@ -79,8 +79,11 @@ Execute SQL queries for analysis
 Open Power BI dashboard to explore interactive visuals
 
 👩‍💻 Author
+
 Name: Smita Tanwar
+
 Role: Aspiring Data Analyst
+
 Skills: Python | SQL | Power BI | Data Analysis | Visualization
 
 
