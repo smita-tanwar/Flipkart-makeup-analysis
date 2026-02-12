@@ -1,4 +1,5 @@
 📊 Flipkart Makeup Product Analysis – Brand & Performance Insights
+
 📌 Project Overview
 
 This project analyzes makeup products listed on Flipkart to understand brand performance, category trends, pricing strategies, discount impact, and customer engagement.
