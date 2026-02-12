@@ -57,12 +57,11 @@ The analysis identifies **top-performing brands and categories** and provides ac
 
 ---
 
-## 📦
+## 📦 Files Included
 | File | Description |
 |------|-------------|
 | `Flipkart_Makeup_Analysis.pbix` | Power BI dashboard file |
 | `SQL_Queries.sql` | SQL queries and views used for analysis |
-| `Cleaned_Dataset.csv` | Processed dataset ready for analysis |
 | `03_notebooks/` | Python notebooks for EDA and data cleaning |
 | `README.md` | Project documentation |
 
