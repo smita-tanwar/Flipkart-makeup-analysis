@@ -1,9 +1,21 @@
 📊 Flipkart Makeup Product Analysis – Brand & Performance Insights
+
 📌 Project Overview
 
-This project analyzes makeup products listed on Flipkart to understand brand performance, category trends, pricing strategies, discount impact, and customer engagement.
+This project analyzes makeup products listed on Flipkart to understand:
 
-The analysis helps identify top-performing brands and categories and provides insights for improving merchandising and marketing strategies.
+Brand performance
+
+Category trends
+
+Pricing strategies
+
+Discount impact
+
+Customer engagement
+
+The goal is to identify top-performing brands and categories and provide insights for merchandising and marketing strategies.
+
 
 🎯 Project Objectives
 
@@ -13,19 +25,19 @@ Identify top-selling and highly rated products
 
 Study the impact of discounts on customer ratings and reviews
 
-Understand pricing trends across product categories
+Understand pricing trends across categories
 
 Build an interactive dashboard for business decision-making
 
+
+
 🛠️ Tools & Technologies Used
+Tool	Purpose
+Python (Pandas, NumPy, Matplotlib, Seaborn)	Data Cleaning & EDA
+SQL (MySQL / SQL Server)	Business Queries & KPI Analysis
+Power BI	Interactive Dashboard & Visualization
+Git & GitHub	Version Control & Project Management
 
-Python (Pandas, NumPy, Matplotlib, Seaborn) – Data Cleaning & EDA
-
-SQL (MySQL / SQL Server) – Business Queries & KPI Analysis
-
-Power BI – Interactive Dashboard & Visualization
-
-Git & GitHub – Version Control & Project Management
 
 📂 Project Structure
 flipkart-makeup-analysis/
@@ -34,6 +46,8 @@ flipkart-makeup-analysis/
 ├── 04_powerbi/         # Power BI dashboard file
 ├── README.md           # Project documentation
 └── .gitignore          # Ignored data files
+
+
 
 📊 Dataset Information
 
@@ -61,10 +75,11 @@ Review_Count
 
 Seller_Name
 
-⚠️ Note: Raw and cleaned datasets are not included in this repository due to size and data management best practices.
+⚠️ Note: Raw and cleaned datasets are not included due to size and data management best practices.
+
+
 
 🔄 Project Workflow
-
 Phase 1: Business Understanding
 
 Defined objectives and KPIs
@@ -77,7 +92,7 @@ Phase 2: Data Cleaning & EDA (Python)
 
 Removed duplicates and validated data types
 
-Created new features (Price Difference, Rating Category, Discount Flag)
+Created new features: Price Difference, Rating Category, Discount Flag
 
 Performed exploratory data analysis
 
@@ -99,9 +114,11 @@ Built KPI cards
 
 Created brand, category, and pricing visuals
 
-Added slicers for interactivity
+Added interactive slicers
 
 Designed a one-page analytical dashboard
+
+
 
 📈 Key Insights
 
@@ -109,15 +126,17 @@ Lipstick and Foundation categories dominate customer engagement
 
 Top brands maintain high ratings without heavy discounting
 
-Higher discounts do not always result in better ratings
+Higher discounts do not always improve ratings
 
 Certain categories generate high review volumes despite moderate pricing
 
-Premium brands tend to receive more consistent customer feedback
+Premium brands receive more consistent customer feedback
+
+
 
 📊 Power BI Dashboard Features
 
-Total Products, Brands, Categories, Reviews, and Ratings
+Total Products, Brands, Categories, Reviews, Ratings
 
 Top 10 Brands and Categories
 
@@ -127,9 +146,11 @@ Price Distribution by Category
 
 Interactive Filters and Slicers
 
+
+
 🎤 Business Impact
 
-This analysis helps businesses:
+This analysis helps businesses to:
 
 Identify high-performing brands and products
 
@@ -138,6 +159,8 @@ Optimize pricing and discount strategies
 Improve customer satisfaction
 
 Support data-driven marketing decisions
+
+
 
 🚀 How to Use This Project
 
@@ -151,8 +174,9 @@ Execute SQL queries for analysis
 
 Open Power BI file to view dashboard
 
-👩‍💻 Author
 
+
+👩‍💻 Author
 Name: Smita Tanwar
 Role: Aspiring Data Analyst
 Skills: Python | SQL | Power BI | Data Analysis | Visualization
