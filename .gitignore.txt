@@ -1,0 +1,14 @@
+# Ignore data files
+01_data/raw/
+01_data/cleaned/
+
+# Ignore large files
+*.csv
+*.xlsx
+
+# Jupyter cache
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
